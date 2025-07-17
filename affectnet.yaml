@@ -1,0 +1,8 @@
+
+path: /kaggle/input/affectnet-yolo-format/YOLO_format
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 8
+names: ['neutral', 'happy', 'sad', 'surprise', 'fear', 'disgust', 'anger', 'contempt']
