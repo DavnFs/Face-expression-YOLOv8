@@ -25,7 +25,6 @@ This repository contains a machine learning solution for detecting and classifyi
    git clone https://github.com/DavnFs/Face-expression-YOLOv8.git
    cd Face-Expression-Detection-YOLOv8
    ```
-   (Replace `[your-username]` with your GitHub username.)
 
 2. Install dependencies:
    ```bash
